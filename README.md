@@ -6,7 +6,7 @@
 
 ### 📃 Descrição 
 
-<p align= "justify">Uma landing page simple de um empresa usando HTML e CSS. <br> Nos menus mobile foi adicionado um menu hamburger</p>
+<p align= "justify">Uma landing page simples de um empresa com um menu hamburger.<p>
 
 ### 🚀 Tecnologias
 
